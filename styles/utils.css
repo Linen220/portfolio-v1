@@ -47,7 +47,7 @@
     margin-right: auto;
     padding-left: .5rem;
     padding-right: .5rem;
-    /** El border fue util para ver el como la pagina era responsiva cuando cambiaba
+    /* El border fue util para ver el como la pagina era responsiva cuando cambiaba
         de resolución */
     /* border: 1px solid red; */
 }
